@@ -32,7 +32,9 @@ background-color: #1560BD;
   background-color: #157CBD;
   color:white;
 }
-
+#pheader {\
+ color:white;
+}
 .well {
   background-color: #157CBD;
 }
