@@ -133,7 +133,10 @@ header.carousel .fill {
 /* Footer Styles */
 
 footer {
-    margin: 50px 0;
+  background-color: #157CBD;
+  opacity: 0.1;
+  border-radius:5px;
+  margin: 50px 0;
 }
 
 /* Responsive Styles */
