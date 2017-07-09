@@ -18,7 +18,8 @@ color: white; /*BACKGROUND color for active*/
 background-color: #1560BD;
 }
 .navbar-default{
-  background-color: #157CBD;
+  background-color: #4f6d80;
+
 }
 .navbar-default .navbar-brand {
   color:white;
@@ -49,7 +50,7 @@ background-color: #1560BD;
   /*background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
 
 .well {
-  background-color: #157CBD;
+  background-color: #4f6d80;
 }
 .servicesP {
   color: #157CBD;
@@ -132,9 +133,11 @@ header.carousel .fill {
 
 /* Footer Styles */
 
-footer {
+footer .container {
   border-radius:5px;
   margin: 50px 0;
+  background-color: 	#F5F5F5;
+  padding: 5px 5px 5px 5px;
 }
 
 /* Responsive Styles */
@@ -168,7 +171,6 @@ footer {
     display: block;
     margin: 0 auto;
     border-radius: 3px;
-    opacity:0.7;
   }
 .panel-heading {
   padding: 10px 10px 10px 10px;
@@ -195,5 +197,10 @@ footer {
   }
   .HomeContent #opac {
   border-radius: 3px;
-  opacity:0.8;
+}
+
+.HomeContent .middle {
+  background-color: 	#F5F5F5;
+  padding-bottom: 20px;
+  border-radius: 3px;
 }
