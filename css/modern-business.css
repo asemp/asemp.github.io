@@ -175,6 +175,10 @@ footer {
   border-radius:3px;
 }
 .panel-default>.panel-heading {
-  background-color: white;
+  background-color: #157CBD;
   border:none;
+}
+
+.servicecard .panel-heading {
+  background-color: white;
 }
