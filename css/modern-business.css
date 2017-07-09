@@ -182,3 +182,18 @@ footer {
 .servicecard .panel-heading {
   background-color: white;
 }
+
+/* Homepage Styles */
+
+  .HomeContent h1 {
+    font-size: 28px;
+    color: #157CBD;
+  }
+
+  .HomeContent p {
+    font-size:18px;
+  }
+  .HomeContent #opac {
+  border-radius: 3px;
+  opacity:0.8;
+}
