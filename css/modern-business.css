@@ -19,7 +19,7 @@ background-color: #1560BD;
 }
 .navbar-default{
   background-color: #4f6d80;
-
+  border:none;
 }
 .navbar-default .navbar-brand {
   color:white;
