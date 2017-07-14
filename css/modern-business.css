@@ -9,7 +9,12 @@
 html,
 body {
     height: 100%;
-
+    padding-top:10px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    /*font-family: 'Indie Flower', cursive;*/
+    /*font-family: 'Philosopher', sans-serif;*/
+    font-family: 'Istok Web', sans-serif;
+    /*font-family: 'Pontano Sans', sans-serif;*/
+    /*font-family: 'Hammersmith One', sans-serif;*/
 }
 /* Nav bar Color*/
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >
@@ -74,9 +79,6 @@ h4 {
 }
 .page-header {
   font-size: 30pt;
-}
-body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 .img-portfolio {
